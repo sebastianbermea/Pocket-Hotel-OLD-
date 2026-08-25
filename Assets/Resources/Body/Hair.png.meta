@@ -1,0 +1,859 @@
+fileFormatVersion: 2
+guid: 76c97382876976541aca7624c32e0811
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6291076074326483787
+    second: Hair_0
+  - first:
+      213: -2140422863264635068
+    second: Hair_1
+  - first:
+      213: 2204669579196900006
+    second: Hair_2
+  - first:
+      213: 2198116130945775363
+    second: Hair_3
+  - first:
+      213: 4058956252779023797
+    second: Hair_0
+  - first:
+      213: 2479549008140923825
+    second: Hair_1
+  - first:
+      213: 2989065274651167385
+    second: Hair_2
+  - first:
+      213: 2544040675260565084
+    second: Hair_4
+  - first:
+      213: 9030113176026869921
+    second: Hair_5
+  - first:
+      213: 8680368776625956241
+    second: Hair_4
+  - first:
+      213: 1473380705548973982
+    second: Hair_6
+  - first:
+      213: -529949329545849477
+    second: Hair_7
+  - first:
+      213: 8876366078900944568
+    second: Hair_8
+  - first:
+      213: 3407883830393546571
+    second: Hair_9
+  - first:
+      213: 350500025444152031
+    second: Hair_10
+  - first:
+      213: -4413519257054220907
+    second: Hair_11
+  - first:
+      213: 5624744384390442808
+    second: Hair_12
+  - first:
+      213: 1877143824050305365
+    second: Hair_13
+  - first:
+      213: -7315613059449551407
+    second: Hair_14
+  - first:
+      213: -5791522842262803530
+    second: Hair_15
+  - first:
+      213: 2584469929820268921
+    second: Hair_16
+  - first:
+      213: -2392934189554882451
+    second: Hair_17
+  - first:
+      213: -2587100757333256836
+    second: Hair_18
+  - first:
+      213: 8441496665516449284
+    second: Hair_19
+  - first:
+      213: 1724571263032307721
+    second: Hair_20
+  - first:
+      213: -6865505653933541823
+    second: Hair_21
+  - first:
+      213: 7948748170949076841
+    second: Hair_22
+  - first:
+      213: -2721282017479304623
+    second: Hair_23
+  - first:
+      213: -939014719255984068
+    second: Hair_24
+  - first:
+      213: -7295761846619657524
+    second: Hair_25
+  - first:
+      213: 6770476483456802336
+    second: Hair_26
+  - first:
+      213: -1558796069163003766
+    second: Hair_27
+  - first:
+      213: 6138133278839302086
+    second: 1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hair_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 425
+        width: 130
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd8eb5e43f445830800000000000000
+      internalID: 6291076074326483787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 425
+        width: 122
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4873676, y: -0.0124882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b379698fa0296220800000000000000
+      internalID: -2140422863264635068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 431
+        width: 127
+        height: 80
+      alignment: 9
+      pivot: {x: 0.50470454, y: -0.090372086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ac902d70b4b7920800000000000000
+      internalID: 2204669579196900006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 419
+        width: 143
+        height: 93
+      alignment: 9
+      pivot: {x: 0.44901004, y: -0.035805978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307341899f6418e10800000000000000
+      internalID: 2198116130945775363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_4
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 447
+        width: 122
+        height: 47
+      alignment: 9
+      pivot: {x: 0.51342124, y: -0.13884524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195ae2a696dd67870800000000000000
+      internalID: 2544040675260565084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_5
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 434
+        width: 134
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4983985, y: -0.24244303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0f7aa0718615d70800000000000000
+      internalID: 9030113176026869921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_6
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 408
+        width: 134
+        height: 90
+      alignment: 9
+      pivot: {x: 0.49055776, y: -0.03688999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97392502ff727410800000000000000
+      internalID: 1473380705548973982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 354
+        width: 71
+        height: 61
+      alignment: 9
+      pivot: {x: 0.41754678, y: -0.3904149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75967f74ed35a8f0800000000000000
+      internalID: -529949329545849477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 332
+        width: 130
+        height: 81
+      alignment: 9
+      pivot: {x: 0.46720383, y: -0.11366404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beb7357bef2f2b70800000000000000
+      internalID: 8876366078900944568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 327
+        width: 122
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5066969, y: -0.031097803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47a76ab94c3b4f20800000000000000
+      internalID: 3407883830393546571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_10
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 330
+        width: 134
+        height: 85
+      alignment: 9
+      pivot: {x: 0.51275545, y: -0.1287612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd23d568ae93dd400800000000000000
+      internalID: 350500025444152031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_11
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 330
+        width: 151
+        height: 89
+      alignment: 9
+      pivot: {x: 0.49999958, y: 0.0017919648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59defe99e9700c2c0800000000000000
+      internalID: -4413519257054220907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_12
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 322
+        width: 128
+        height: 93
+      alignment: 9
+      pivot: {x: 0.45194006, y: 0.025121873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f27f7673b1f0e40800000000000000
+      internalID: 5624744384390442808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_13
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 328
+        width: 114
+        height: 70
+      alignment: 9
+      pivot: {x: 0.48820844, y: -0.060974993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55936d8cc54fc0a10800000000000000
+      internalID: 1877143824050305365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 226
+        width: 120
+        height: 82
+      alignment: 9
+      pivot: {x: 0.49821365, y: -0.03343182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d50d45aea8b97a90800000000000000
+      internalID: -7315613059449551407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_15
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 229
+        width: 131
+        height: 90
+      alignment: 9
+      pivot: {x: 0.48980328, y: -0.061913554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb6d56e8a060afa0800000000000000
+      internalID: -5791522842262803530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_16
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 191
+        width: 143
+        height: 116
+      alignment: 9
+      pivot: {x: 0.49948803, y: 0.19727825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979ad9345b1edd320800000000000000
+      internalID: 2584469929820268921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_17
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 209
+        width: 159
+        height: 91
+      alignment: 9
+      pivot: {x: 0.48382568, y: -0.09788765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68a1bc68079aced0800000000000000
+      internalID: -2392934189554882451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_18
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 190
+        width: 135
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5064408, y: 0.2314761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75d1097195c81cd0800000000000000
+      internalID: -2587100757333256836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_19
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 200
+        width: 120
+        height: 96
+      alignment: 9
+      pivot: {x: 0.49411672, y: -0.08729061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e90c80e78362570800000000000000
+      internalID: 8441496665516449284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_20
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 190
+        width: 135
+        height: 105
+      alignment: 9
+      pivot: {x: 0.50287724, y: 0.19791695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90033e23d68eee710800000000000000
+      internalID: 1724571263032307721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 87
+        width: 150
+        height: 79
+      alignment: 9
+      pivot: {x: 0.40871093, y: -0.032077257}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146fad59bf2d8b0a0800000000000000
+      internalID: -6865505653933541823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_22
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 51
+        width: 138
+        height: 116
+      alignment: 9
+      pivot: {x: 0.49336365, y: 0.29612198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967a472e850af4e60800000000000000
+      internalID: 7948748170949076841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_23
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 41
+        width: 130
+        height: 124
+      alignment: 9
+      pivot: {x: 0.48217326, y: 0.35356694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15adc7e4c601c3ad0800000000000000
+      internalID: -2721282017479304623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_24
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 65
+        width: 133
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5480663, y: 0.19733672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3842e38613f7f2f0800000000000000
+      internalID: -939014719255984068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_25
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 57
+        width: 146
+        height: 108
+      alignment: 9
+      pivot: {x: 0.49094674, y: 0.27184078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca236e414f30ca90800000000000000
+      internalID: -7295761846619657524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_26
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 57
+        width: 131
+        height: 109
+      alignment: 9
+      pivot: {x: 0.49460888, y: 0.2786817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e149c7d7095fd50800000000000000
+      internalID: 6770476483456802336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_27
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 57
+        width: 135
+        height: 106
+      alignment: 9
+      pivot: {x: 0.49566695, y: 0.24115285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a809344eb3b0e5ae0800000000000000
+      internalID: -1558796069163003766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 21
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7683522b70f2550800000000000000
+      internalID: 6138133278839302086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Hair_6: 1473380705548973982
+      Hair_16: 2584469929820268921
+      Hair_13: 1877143824050305365
+      Hair_3: 2198116130945775363
+      Hair_11: -4413519257054220907
+      Hair_9: 3407883830393546571
+      Hair_23: -2721282017479304623
+      Hair_20: 1724571263032307721
+      Hair_1: -2140422863264635068
+      Hair_12: 5624744384390442808
+      Hair_7: -529949329545849477
+      Hair_24: -939014719255984068
+      Hair_21: -6865505653933541823
+      Hair_10: 350500025444152031
+      Hair_25: -7295761846619657524
+      Hair_17: -2392934189554882451
+      Hair_22: 7948748170949076841
+      Hair_19: 8441496665516449284
+      Hair_18: -2587100757333256836
+      Hair_5: 9030113176026869921
+      Hair_2: 2204669579196900006
+      Hair_8: 8876366078900944568
+      Hair_15: -5791522842262803530
+      Hair_14: -7315613059449551407
+      1: 6138133278839302086
+      Hair_26: 6770476483456802336
+      Hair_27: -1558796069163003766
+      Hair_0: 6291076074326483787
+      Hair_4: 2544040675260565084
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

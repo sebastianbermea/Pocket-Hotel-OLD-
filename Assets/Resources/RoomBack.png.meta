@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: abb72a912b45e554f98071de3c951532
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5466915680698193606
+    second: RoomBack_0
+  - first:
+      213: 8514578020056870734
+    second: RoomBack_1
+  - first:
+      213: -445674248271587130
+    second: RoomBack_2
+  - first:
+      213: -8738234447710508101
+    second: RoomBack_3
+  - first:
+      213: -8591588073390565443
+    second: RoomBack_0
+  - first:
+      213: 3857982215192654830
+    second: RoomBack_4
+  - first:
+      213: -1295524473953173665
+    second: RoomBack_5
+  - first:
+      213: 7567447487221050275
+    second: RoomBack_6
+  - first:
+      213: 1120389919981432118
+    second: RoomBack_7
+  - first:
+      213: 832559314395179580
+    second: RoomBack_8
+  - first:
+      213: -7433399877504212869
+    second: RoomBack_9
+  - first:
+      213: -3322193858232145771
+    second: RoomBack_10
+  - first:
+      213: -7882260748692018418
+    second: RoomBack_11
+  - first:
+      213: -3947037225300852283
+    second: RoomBack_12
+  - first:
+      213: 331001127414821670
+    second: RoomBack_13
+  - first:
+      213: 8433445578203072316
+    second: RoomBack_14
+  - first:
+      213: 8434836146982357558
+    second: RoomBack_15
+  - first:
+      213: -8388141930671284825
+    second: RoomBack_16
+  - first:
+      213: 1626918144895776143
+    second: RoomBack_16
+  - first:
+      213: -1766207451805809279
+    second: RoomBack_16
+  - first:
+      213: 8798261223968527480
+    second: RoomBack_16
+  - first:
+      213: 1705358095709276468
+    second: RoomBack_16
+  - first:
+      213: -3997414453935045818
+    second: RoomBack_16
+  - first:
+      213: 1371086038216386879
+    second: RoomBack_16
+  - first:
+      213: 6248844515605492482
+    second: RoomBack_16
+  - first:
+      213: 1706923813044331282
+    second: RoomBack_16
+  - first:
+      213: -8618338872394925580
+    second: RoomBack_16
+  - first:
+      213: -7141874994889081728
+    second: RoomBack_16
+  - first:
+      213: -1461076574920109832
+    second: RoomBack_16
+  - first:
+      213: 5385286939442456047
+    second: RoomBack_16
+  - first:
+      213: 8636617909477850299
+    second: RoomBack_16
+  - first:
+      213: -636572143642972846
+    second: RoomBack_16
+  - first:
+      213: 8253330639604732697
+    second: RoomBack_31
+  - first:
+      213: 4319935476364423413
+    second: RoomBack_32
+  - first:
+      213: 8676021171006698873
+    second: RoomBack_33
+  - first:
+      213: -8596077276130142828
+    second: RoomBack_34
+  - first:
+      213: 2691427614370591005
+    second: RoomBack_35
+  - first:
+      213: -138371905364639820
+    second: RoomBack_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RoomBack_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 673
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fa6d9d89bd92670800000000000000
+      internalID: 8514578020056870734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 673
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c89b3ae1a5a0d9f0800000000000000
+      internalID: -445674248271587130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 673
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb2224211e8bb680800000000000000
+      internalID: -8738234447710508101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_4
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 673
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3355e526e4a8530800000000000000
+      internalID: 3857982215192654830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_5
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 673
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f323cda5f550ee0800000000000000
+      internalID: -1295524473953173665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 540
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abab344569f40960800000000000000
+      internalID: 7567447487221050275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 540
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63deb6632bc6c8f00800000000000000
+      internalID: 1120389919981432118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 540
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3aa7fc0948dd8b00800000000000000
+      internalID: 832559314395179580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_9
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 540
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70edebf13247d890800000000000000
+      internalID: -7433399877504212869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_10
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 540
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598a615a94235e1d0800000000000000
+      internalID: -3322193858232145771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_11
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 540
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b253f6c959c9290800000000000000
+      internalID: -7882260748692018418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 407
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c103be4e8e4939c0800000000000000
+      internalID: -3947037225300852283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_13
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 407
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62370db85c3f79400800000000000000
+      internalID: 331001127414821670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_14
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 407
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c370261321e990570800000000000000
+      internalID: 8433445578203072316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 407
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a028739ce8e0570800000000000000
+      internalID: 8434836146982357558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 673
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6570db8d26edb40800000000000000
+      internalID: 5466915680698193606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_16
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 407
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad57c83b55579b80800000000000000
+      internalID: -8388141930671284825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_17
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 407
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f857629de69f39610800000000000000
+      internalID: 1626918144895776143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 274
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185877b2eab2d77e0800000000000000
+      internalID: -1766207451805809279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_19
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 274
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874dcbfc7f3b91a70800000000000000
+      internalID: 8798261223968527480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_20
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 274
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43986951726aaa710800000000000000
+      internalID: 1705358095709276468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_21
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 274
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643803dbbb45688c0800000000000000
+      internalID: -3997414453935045818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_22
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 274
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39a268cc73170310800000000000000
+      internalID: 1371086038216386879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_23
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 274
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2033059aafa58b650800000000000000
+      internalID: 6248844515605492482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 141
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213a92f0a2630b710800000000000000
+      internalID: 1706923813044331282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_25
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 141
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9b5fc1572856880800000000000000
+      internalID: -8618338872394925580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_26
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 141
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c346b0886f2ec90800000000000000
+      internalID: -7141874994889081728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_27
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 141
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f01e32a89639bbe0800000000000000
+      internalID: -1461076574920109832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_28
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 141
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5a40f50f16cba40800000000000000
+      internalID: 5385286939442456047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_29
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 141
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc343bda3e6bd770800000000000000
+      internalID: 8636617909477850299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d604012017a27f0800000000000000
+      internalID: -636572143642972846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_31
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 7
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913dc7b1d78b98270800000000000000
+      internalID: 8253330639604732697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_32
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 7
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f03f418d6e73fb30800000000000000
+      internalID: 4319935476364423413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_33
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 7
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9757f99994b676870800000000000000
+      internalID: 8676021171006698873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_34
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 7
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4959476e24994b880800000000000000
+      internalID: -8596077276130142828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomBack_35
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 7
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfb8d53c77641ef0800000000000000
+      internalID: 2691427614370591005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RoomBack_1: 8514578020056870734
+      RoomBack_7: 1120389919981432118
+      RoomBack_8: 832559314395179580
+      RoomBack_26: -7141874994889081728
+      RoomBack_32: 4319935476364423413
+      RoomBack_2: -445674248271587130
+      RoomBack_3: -8738234447710508101
+      RoomBack_12: -3947037225300852283
+      RoomBack_19: 8798261223968527480
+      RoomBack_24: 1706923813044331282
+      RoomBack_13: 331001127414821670
+      RoomBack_15: 8434836146982357558
+      RoomBack_30: -636572143642972846
+      RoomBack_5: -1295524473953173665
+      RoomBack_4: 3857982215192654830
+      RoomBack_29: 8636617909477850299
+      RoomBack_9: -7433399877504212869
+      RoomBack_31: 8253330639604732697
+      RoomBack_25: -8618338872394925580
+      RoomBack_11: -7882260748692018418
+      RoomBack_35: 2691427614370591005
+      RoomBack_21: -3997414453935045818
+      RoomBack_23: 6248844515605492482
+      RoomBack_34: -8596077276130142828
+      RoomBack_28: 5385286939442456047
+      RoomBack_27: -1461076574920109832
+      RoomBack_20: 1705358095709276468
+      RoomBack_18: -1766207451805809279
+      RoomBack_17: 1626918144895776143
+      RoomBack_0: 5466915680698193606
+      RoomBack_33: 8676021171006698873
+      RoomBack_16: -8388141930671284825
+      RoomBack_22: 1371086038216386879
+      RoomBack_10: -3322193858232145771
+      RoomBack_14: 8433445578203072316
+      RoomBack_6: 7567447487221050275
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

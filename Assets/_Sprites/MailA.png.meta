@@ -1,0 +1,722 @@
+fileFormatVersion: 2
+guid: b088c0b7acb5b8346a24951b7a0126b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5254821891055912322
+    second: MailA_0
+  - first:
+      213: -3761693216176760970
+    second: MailA_1
+  - first:
+      213: 7965854899207671241
+    second: MailA_2
+  - first:
+      213: 3471252299841314736
+    second: MailA_3
+  - first:
+      213: -7718526138445085538
+    second: MailA_4
+  - first:
+      213: 7965232267578669296
+    second: MailA_5
+  - first:
+      213: 6894977409780154377
+    second: MailA_6
+  - first:
+      213: -3740237898326807261
+    second: MailA_7
+  - first:
+      213: 5516544930525630175
+    second: MailA_8
+  - first:
+      213: 612518607294916677
+    second: MailA_9
+  - first:
+      213: -5576925278207963513
+    second: MailA_10
+  - first:
+      213: -3652644659780951432
+    second: MailA_11
+  - first:
+      213: 7102795781610350982
+    second: MailA_12
+  - first:
+      213: 7927685616820583785
+    second: MailA_13
+  - first:
+      213: -3996751031076022514
+    second: MailA_14
+  - first:
+      213: 4407215362602598671
+    second: MailA_15
+  - first:
+      213: 411013202278393162
+    second: MailA_16
+  - first:
+      213: -6559071728707174656
+    second: MailA_17
+  - first:
+      213: 6372009728362305296
+    second: MailA_18
+  - first:
+      213: 426915561125825289
+    second: MailA_19
+  - first:
+      213: 4376856108203080471
+    second: MailA_20
+  - first:
+      213: 2302116433246619534
+    second: MailA_21
+  - first:
+      213: -405700688778017015
+    second: MailA_23
+  - first:
+      213: 795231500606161718
+    second: MailA_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MailA_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 807
+        width: 108
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a7aa1d45f1317b0800000000000000
+      internalID: -5254821891055912322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailA_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 802
+        width: 114
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67799cf33f7cbcbc0800000000000000
+      internalID: -3761693216176760970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailA_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 798
+        width: 122
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd049f63d66c8e60800000000000000
+      internalID: 7965854899207671241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailA_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 132
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf9cc1439d5c2030800000000000000
+      internalID: 3471252299841314736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailA_4
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 741
+        width: 141
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94c9602f5942e490800000000000000
+      internalID: -7718526138445085538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailA_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 690
+        width: 149
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f87186bb803a8e60800000000000000
+      internalID: 7965232267578669296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailA_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 685
+        width: 161
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9000a4c4c61efaf50800000000000000
+      internalID: 6894977409780154377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailA_7
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 657
+        width: 169
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32de6c6b271081cc0800000000000000
+      internalID: -3740237898326807261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailA_8
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 622
+        width: 171
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde467be264be8c40800000000000000
+      internalID: 5516544930525630175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailA_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 570
+        width: 171
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54861269d6a108800800000000000000
+      internalID: 612518607294916677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailA_10
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 545
+        width: 171
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e848dd108ca92b0800000000000000
+      internalID: -5576925278207963513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailA_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 517
+        width: 170
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8726703d8033f4dc0800000000000000
+      internalID: -3652644659780951432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailA_12
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 513
+        width: 169
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68927039123329260800000000000000
+      internalID: 7102795781610350982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailA_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 424
+        width: 169
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.488503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d7099d01cc40e60800000000000000
+      internalID: 7927685616820583785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailA_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 424
+        width: 169
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e079909ec10b888c0800000000000000
+      internalID: -3996751031076022514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailA_15
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 388
+        width: 171
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4488849}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0182989503992d30800000000000000
+      internalID: 4407215362602598671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailA_16
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 364
+        width: 171
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38064378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45accf645634b500800000000000000
+      internalID: 411013202278393162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailA_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 250
+        width: 171
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32211456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ff912a30f79f4a0800000000000000
+      internalID: -6559071728707174656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailA_18
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 251
+        width: 169
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3329359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0175e5c661ded6850800000000000000
+      internalID: 6372009728362305296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailA_19
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 179
+        width: 168
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27707586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bcdf1e075bce500800000000000000
+      internalID: 426915561125825289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailA_20
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 147
+        width: 164
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26548767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b717ad077bdbc30800000000000000
+      internalID: 4376856108203080471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailA_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 41
+        width: 161
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2683796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87014be2b2c2ff10800000000000000
+      internalID: 2302116433246619534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailA_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 20
+        width: 159
+        height: 182
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26291072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90741408f59ae5af0800000000000000
+      internalID: -405700688778017015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MailA_25
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 9
+        width: 159
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31670693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633c4d326da390b00800000000000000
+      internalID: 795231500606161718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MailA_13: 7927685616820583785
+      MailA_5: 7965232267578669296
+      MailA_25: 795231500606161718
+      MailA_4: -7718526138445085538
+      MailA_19: 426915561125825289
+      MailA_3: 3471252299841314736
+      MailA_0: -5254821891055912322
+      MailA_18: 6372009728362305296
+      MailA_15: 4407215362602598671
+      MailA_11: -3652644659780951432
+      MailA_12: 7102795781610350982
+      MailA_2: 7965854899207671241
+      MailA_8: 5516544930525630175
+      MailA_14: -3996751031076022514
+      MailA_21: 2302116433246619534
+      MailA_10: -5576925278207963513
+      MailA_6: 6894977409780154377
+      MailA_7: -3740237898326807261
+      MailA_1: -3761693216176760970
+      MailA_17: -6559071728707174656
+      MailA_23: -405700688778017015
+      MailA_9: 612518607294916677
+      MailA_20: 4376856108203080471
+      MailA_16: 411013202278393162
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

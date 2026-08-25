@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 9a7bd8382c1ab2544aeca5594e51b16b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8227643117460603607
+    second: LaptopF_0
+  - first:
+      213: 8485844802287461390
+    second: LaptopF_1
+  - first:
+      213: -5772307424282621278
+    second: LaptopF_2
+  - first:
+      213: 9071660966633553463
+    second: LaptopF_3
+  - first:
+      213: 3307752937923182203
+    second: LaptopF_4
+  - first:
+      213: 6388220721382357358
+    second: LaptopF_5
+  - first:
+      213: 334965743357768017
+    second: LaptopF_6
+  - first:
+      213: 7049221339448956841
+    second: LaptopF_7
+  - first:
+      213: -1399576490475579494
+    second: LaptopF_8
+  - first:
+      213: -4893641613742592728
+    second: LaptopF_9
+  - first:
+      213: -5807839439057797227
+    second: LaptopF_10
+  - first:
+      213: -2235330867623671282
+    second: LaptopF_11
+  - first:
+      213: 5197389261274603493
+    second: LaptopF_12
+  - first:
+      213: 1861345915592657717
+    second: LaptopF_13
+  - first:
+      213: -1749924309550785125
+    second: LaptopF_14
+  - first:
+      213: -4317211293952782199
+    second: LaptopF_15
+  - first:
+      213: -7424464104483745445
+    second: LaptopF_16
+  - first:
+      213: -5669909325336641451
+    second: LaptopF_17
+  - first:
+      213: -5944543453664942472
+    second: LaptopF_18
+  - first:
+      213: 3547473767136170359
+    second: LaptopF_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LaptopF_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1186
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92db2153d2a81dd80800000000000000
+      internalID: -8227643117460603607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaptopF_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1170
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04607343e6c3c570800000000000000
+      internalID: 8485844802287461390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaptopF_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1151
+        width: 95
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aac8490bf4a4efa0800000000000000
+      internalID: -5772307424282621278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaptopF_3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1125
+        width: 152
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e38fed59305ed70800000000000000
+      internalID: 9071660966633553463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaptopF_4
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1095
+        width: 217
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e7aa595cf77ed20800000000000000
+      internalID: 3307752937923182203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaptopF_5
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1057
+        width: 288
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69f8cc56e487a850800000000000000
+      internalID: 6388220721382357358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaptopF_6
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1000
+        width: 352
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151b3c0a19906a400800000000000000
+      internalID: 334965743357768017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaptopF_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 856
+        width: 400
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a971731e894b39ce0800000000000000
+      internalID: -1399576490475579494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaptopF_9
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 809
+        width: 418
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82dadc241ea461cb0800000000000000
+      internalID: -4893641613742592728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaptopF_10
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 741
+        width: 416
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fb47a2dc8666fa0800000000000000
+      internalID: -5807839439057797227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaptopF_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 595
+        width: 413
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a43df4b628af0e0800000000000000
+      internalID: -2235330867623671282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaptopF_12
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 541
+        width: 408
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efd3b50ff5d02840800000000000000
+      internalID: 5197389261274603493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaptopF_13
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 484
+        width: 400
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b46079f34d4d910800000000000000
+      internalID: 1861345915592657717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaptopF_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 344
+        width: 390
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d9769ac1507b7e0800000000000000
+      internalID: -1749924309550785125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaptopF_15
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 291
+        width: 384
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980d3a3a33f2614c0800000000000000
+      internalID: -4317211293952782199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaptopF_16
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 241
+        width: 380
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b519b94cb3107f890800000000000000
+      internalID: -7424464104483745445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaptopF_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 100
+        width: 376
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55082a2528f6051b0800000000000000
+      internalID: -5669909325336641451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaptopF_18
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 51
+        width: 376
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8766d64793db08da0800000000000000
+      internalID: -5944543453664942472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaptopF_19
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 8
+        width: 372
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7711b2c88982b3130800000000000000
+      internalID: 3547473767136170359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LaptopF_16: -7424464104483745445
+      LaptopF_13: 1861345915592657717
+      LaptopF_18: -5944543453664942472
+      LaptopF_8: -1399576490475579494
+      LaptopF_9: -4893641613742592728
+      LaptopF_5: 6388220721382357358
+      LaptopF_1: 8485844802287461390
+      LaptopF_6: 334965743357768017
+      LaptopF_4: 3307752937923182203
+      LaptopF_14: -1749924309550785125
+      LaptopF_10: -5807839439057797227
+      LaptopF_15: -4317211293952782199
+      LaptopF_19: 3547473767136170359
+      LaptopF_0: -8227643117460603607
+      LaptopF_17: -5669909325336641451
+      LaptopF_11: -2235330867623671282
+      LaptopF_2: -5772307424282621278
+      LaptopF_12: 5197389261274603493
+      LaptopF_3: 9071660966633553463
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

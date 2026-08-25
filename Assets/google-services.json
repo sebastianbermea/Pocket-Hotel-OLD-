@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "557135327782",
+    "firebase_url": "https://pocket-hotel-default-rtdb.firebaseio.com",
+    "project_id": "pocket-hotel",
+    "storage_bucket": "pocket-hotel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557135327782:android:d436d219130efdef4c2ce7",
+        "android_client_info": {
+          "package_name": "com.Azteca.PocketHotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557135327782-rdufl37fk6rvcqmatg08hfp0hkq9evbf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Azteca.PocketHotel",
+            "certificate_hash": "123bb2be3297b855541a69fa1f0fb1a81e69dc38"
+          }
+        },
+        {
+          "client_id": "557135327782-egu6j9mn6jteplbuv73lccibdvel9c9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5YYOsEFkMCmZh9ipjlPomQmyES3HURz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557135327782-egu6j9mn6jteplbuv73lccibdvel9c9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

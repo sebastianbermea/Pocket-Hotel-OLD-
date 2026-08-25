@@ -73,3 +73,16 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+Assets/Firebase
+Assets/Editor Default Resources/Firebase
+Assets/Yodo1
+Assets/Plugins
+Assets/GooglePlayPlugins
+PH__1_BackUpThisFolder_ButDontShipItWithYourGame
+PH__1_BurstDebugInformation_DoNotShip
+Assets/GooglePlayGames
+Assets/FacebookSDK
+Assets/TextMesh Pro
+Assets/ExternalDependencyManager
+Assets/GeneratedLocalRepo
